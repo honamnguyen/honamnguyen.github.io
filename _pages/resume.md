@@ -24,9 +24,9 @@ Education
 *2014 - 2018*
 :   **BS, Physics and Astronomy**
 :   *Stony Brook University*
-    Summa Cum Laude, Honors Collegge
-    Physics Thesis: “Local Measurement of the Material Budget in the CMS Tracker”. Advisor: Dr. Klaus Dehmelt
-    Astronomy Thesis: *“Measuring Small‐Scale Dark Matter with High‐Resolution CMB Lensing”*. Advisor: Dr. Neelima Sehgal
+    - Summa Cum Laude, Honors College
+    - Physics Thesis: “Local Measurement of the Material Budget in the CMS Tracker”. Advisor: Dr. Klaus Dehmelt
+    - Astronomy Thesis: *“Measuring Small‐Scale Dark Matter with High‐Resolution CMB Lensing”*. Advisor: Dr. Neelima Sehgal
 
 Work experience
 ======
