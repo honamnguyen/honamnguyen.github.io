@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 *2019 - current*
-: **Ph.D., Physics**
+:   **Ph.D., Physics**
 :   *University of California, Berkeley*
 
 
@@ -52,18 +52,18 @@ Work experience
 Teaching
 ======
 
-**Graduate Student Instructor** @ University of California, Berkeley
-
+**Graduate Student Instructor** @ University of California, Berkeley \
+*Spring 2024:* 
+:   [CHEM 277B. Machine Learning Algorithms](https://msse.berkeley.edu/courses-syllabi) \
+*Spring 2021:* 
+:   [PHYS C21. Physics and Music](https://curricularconnections.berkeley.edu/ls-discovery-courses/physics-and-music/) \
+*Fall 2020:*
+:   [CS C191. Quantum Information Science and Technology](https://classes.berkeley.edu/content/2020-fall-chem-c191-001-lec-001) \
 *Fall 2019/Spring 2020:* 
 :   [PHYS 8A/8B. Introductory Physics](https://guide.berkeley.edu/courses/physics/)
-*Fall 2020:*
-:   [CS C191. Quantum Information Science and Technology](https://classes.berkeley.edu/content/2020-fall-chem-c191-001-lec-001)
-*Spring 2021:* 
-:   [PHYS C21. Physics and Music](https://curricularconnections.berkeley.edu/ls-discovery-courses/physics-and-music/)
-*Spring 2024:* 
-:   [CHEM 277B. Machine Learning Algorithms](https://msse.berkeley.edu/courses-syllabi)
 
-  
+
+
 Skills
 ======
 * Skill 1
