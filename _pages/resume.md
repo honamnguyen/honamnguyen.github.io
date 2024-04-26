@@ -39,13 +39,13 @@ Experience
     - Demonstrated a 3x reduction in duration for singe-qubit operations while maintaining 99.9% fidelity.
 
 *Summer 2018*
-:   **Research Student**
+:   **Student Researcher**
 :   *Perimeter Institute, Waterloo, Ontario, Canada*
     - Investigated a model-fitting algorithm from lambda-statistics on 2D timestreams.
     - Implemented the algorithm in Python and validated it on a simplified toy model for the full pulsar search problem.
 
 *Summer 2017*
-:   **Research Student**
+:   **Student Researcher**
 :   *CERN, Geneva, Switzerland*
     - Validated material budget in the Compact Muon Solenoid (CMS) tracker.
 
