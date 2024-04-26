@@ -28,7 +28,7 @@ Education
     - Physics Thesis: *“Local Measurement of the Material Budget in the CMS Tracker”*. Advisor: Dr. Klaus Dehmelt
     - Astronomy Thesis: *“Measuring Small‐Scale Dark Matter with High‐Resolution CMB Lensing”*. Advisor: Dr. Neelima Sehgal
 
-Work experience
+Experience
 ======
 *Summer 2021*
 :   **Graduate Student Research Assistant**
@@ -53,42 +53,25 @@ Teaching
 ======
 
 **Graduate Student Instructor** @ University of California, Berkeley
-*Spring 2024:* 
+*Spring 2024* 
 :   [CHEM 277B. Machine Learning Algorithms](https://msse.berkeley.edu/courses-syllabi)
 
-*Spring 2021:* 
+*Spring 2021* 
 :   [PHYS C21. Physics and Music](https://curricularconnections.berkeley.edu/ls-discovery-courses/physics-and-music/)
 
-*Fall 2020:*
+*Fall 2020*
 :   [CS C191. Quantum Information Science and Technology](https://classes.berkeley.edu/content/2020-fall-chem-c191-001-lec-001)
 
-*Fall 2019/Spring 2020:* 
+*Fall 2019/Spring 2020* 
 :   [PHYS 8A/8B. Introductory Physics](https://guide.berkeley.edu/courses/physics/)
-
-
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+*2021* &emsp; &emsp; &emsp; **Splash! Teacher**, Introduction to Neural Networks, UC Berkeley
+
+*2016 - 2018* &nbsp; **Faculty Director Advisory Board**, College of Science and Society, SBU
+
+*2015 - 2018* &nbsp; **Resident Assistant**, Mount College, Campus Residences, SBU
+
+*2015 - 2016* &nbsp; **Undergraduate College Fellow**, College of Science and Society, SBU

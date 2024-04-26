@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Nam's Website"
+title                    : "Hi, I'm Nam"
 title_separator          : "-"
 name                     : &name "Ho Nam Nguyen"
 description              : &description "personal description"

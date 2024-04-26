@@ -1,8 +1,15 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
+---
+
+---
+# Reinforcement Learning Pulses for Transmon Qubit Entangling Gates 
+
+## Exploration of high-amplitude control solutions
+(2023) In Submission [arXiv](https://arxiv.org/abs/2311.03684)
 ---
 
 {% if site.author.googlescholar %}
