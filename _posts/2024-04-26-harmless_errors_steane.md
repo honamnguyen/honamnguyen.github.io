@@ -2,6 +2,7 @@
 title: 'Harmless errors in logical encoding of the Steane code'
 date: 2024-04-26
 permalink: /blog/harmless_errors_steane
+author_profile: false
 ---
 
 <blockquote>
