@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 5th-year Ph.D. candidate in the Physics Department at UC Berkeley working with Professor Birgitta Whaley. I am particularly interested in the application of machine learning algorithms to enhance various facets of quantum computing, including pulse control, qubit readout, and error correction.
+I'm doing my Ph.D. in Physics at UC Berkeley, under the supervision of Prof. Birgitta Whaley. I am particularly interested in the application of machine learning algorithms to enhance various facets of quantum computing, including pulse control, qubit readout, and error correction.

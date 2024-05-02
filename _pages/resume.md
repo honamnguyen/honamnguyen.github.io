@@ -30,24 +30,26 @@ Education
 
 Experience
 ======
-*Summer 2021*
-:   **Graduate Student Research Assistant**
-:   *Lawrence Berkeley National Lab, Berkeley, CA*
-    - Investigated Deep Reinforcement Learning application in quantum gate design.
-    - Developed an OpenAI‐compatible for simulating transmon qubits dynamics under control pulses.
-    - Implemented Deep Q-Network (DQN)/Deep Deterministic Policy Gradient (DDPG) for discretized/continuous pulse amplitudes.
-    - Demonstrated a 3x reduction in duration for singe-qubit operations while maintaining 99.9% fidelity.
+*06 - 08/2021*
+:   **Graduate Student Research Assistant:** AI for quantum control
+:   *Lawrence Berkeley National Laboratory*
+    - Developed an OpenAI-compatible gym to model the dynamics of transmon qubits under control pulses, and implemented multiple Q-learning algorithms to learn both discrete and continuous pulse amplitudes.
+    - Achieved a 3x reduction in gate duration for single-qubit operations, while sustaining a fidelity of 99.9%.
 
-*Summer 2018*
-:   **Student Researcher**
-:   *Perimeter Institute, Waterloo, Ontario, Canada*
-    - Investigated a model-fitting algorithm from lambda-statistics on 2D timestreams.
-    - Implemented the algorithm in Python and validated it on a simplified toy model for the full pulsar search problem.
 
-*Summer 2017*
-:   **Student Researcher**
+*06 - 08/2018*
+:   **Student Researcher:** Model-fitting with $$\lambda$$-statistics for pulsar search
+:   *Perimeter Institute, Canada*
+    - Investigated a $$\lambda$$-statistics-based model-fitting algorithm on time-series data.
+    - Validated the algorithm's effectiveness using a simplified toy model featuring 2D timestreams, laying the foundation for its application to the full pulsar search problem.
+
+
+*06 - 08/2017*
+:   **Student Researcher:** Validation of material budget in the CMS tracker
 :   *CERN, Geneva, Switzerland*
-    - Validated material budget in the Compact Muon Solenoid (CMS) tracker.
+    - Modified existing C++ code and added Python scripts to extract azimuthal coordinate information for radiation length analysis in the Compact Muon Solenoid (CMS) tracker.
+    - Identified non-constant radiation length values in the tracker's edge modules, offering initial insights for further improving the accuracy of the material budget estimation.
+
 
 Teaching
 ======
@@ -55,6 +57,10 @@ Teaching
 **Graduate Student Instructor** @ University of California, Berkeley
 *Spring 2024* 
 :   [CHEM 277B. Machine Learning Algorithms](https://msse.berkeley.edu/courses-syllabi)
+    - Facilitated weekly discussions on implementing various optimization and machine learning algorithms using Python, with a focus on Pandas and PyTorch.
+    - Provided assignments focused on core optimization methods, followed by deep learning models like CNNs, RNNs, VAEs, and GNNs, tailored to molecular science.
+    - Spotlighted recent developments in machine learning, including sequence-to-sequence learning and transformers.
+
 
 *Spring 2021* 
 :   [PHYS C21. Physics and Music](https://curricularconnections.berkeley.edu/ls-discovery-courses/physics-and-music/)
