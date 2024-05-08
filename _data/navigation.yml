@@ -4,7 +4,8 @@ main:
     url: /research/
 
   - title: "Resume"
-    url: /resume/
+    url: /files/resume.pdf
+    # url: /resume/
 
   - title: "Blog"
     url: /blog/
