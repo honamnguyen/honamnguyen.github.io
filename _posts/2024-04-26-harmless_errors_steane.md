@@ -9,7 +9,7 @@ No, not necessarily.
 
 I recently encountered the following observation in my research on fault-tolerant encoding:
 <blockquote>
-... no \(Z\) errors are harmful for \(|0\rangle_{\text{L}}\) encoded with the Steane code... Because of the \(Z\) stabilizer operators of \(|0\rangle_{\text{L}}\) given above, arbitrary \(Z\) errors are equivalent to no error or single-qubit \\(Z\\) errors. - [Goto](https://www.nature.com/articles/srep19578)
+... no \(Z\) errors are harmful for \(|0\rangle_{\text{L}}\) encoded with the Steane code... Because of the \(Z\) stabilizer operators of \(|0\rangle_{\text{L}}\) given above, arbitrary \(Z\) errors are equivalent to no error or single-qubit \(Z\) errors. - <a href="https://www.nature.com/articles/srep19578">Goto</a>
 </blockquote>
 This is a powerful insight that allows the author to overlook all $$Z$$ errors to devise an efficient encoding circuit with minimal overhead. And yet, I still struggle to see where it comes from. Thankfully, a colleague of mine pointed out a simple recipe to convince myself that this is true. 
 
